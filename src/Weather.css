@@ -87,3 +87,39 @@ body {
     background-repeat: no-repeat;
     background-size: cover
   }
+  @media (max-width: 768px) {
+    .container {
+      padding: 15px;
+    }
+  
+    input {
+      width: 100%;
+    }
+  
+    button {
+      width: 100%;
+    }
+  
+    .report {
+      text-align: center;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .container {
+      padding: 10px;
+    }
+  
+    input,
+    button {
+      width: 100%;
+    }
+  
+    button {
+      padding: 8px;
+    }
+  
+    .report {
+      padding: 10px;
+    }
+  }
