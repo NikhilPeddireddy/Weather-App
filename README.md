@@ -11,7 +11,7 @@ This React-based weather application retrieves and displays current weather info
 ## Prerequisites
 - Node.js and npm/yarn installed.
 - OpenWeatherMap API key for accessing weather data.
-- 
+- apiKey: f0256276009d9809bd8189e577cefd4c
 ## Usage
 Enter a city name in the input field.
 Click "Get Weather report" to fetch and display weather information for that city.
